@@ -1,4 +1,5 @@
 #include<stdio.h>
+//code is updated by team head//
 int main(){
     int a=10;
     int b=10;
